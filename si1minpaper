@@ -1,0 +1,74 @@
+<html>
+<body>
+<div class=”entry-meta”><a class=”entry-date published”>June 4, 2020</a></div>
+
+Evolution of Information Systems: a one minute paper
+</p>
+Paulo Francisco
+</p>
+
+Overview
+</p>
+
+
+The concept of Information Systems, as we know today, is the result of years of technological and business process evolution. Organizations have evolved and matured in their management techniques, the industry has modernized production processes and people have evolved in the way they relate, buy, negotiate, and interact with technology.
+All of this meant that the evolution of information systems occurred at an accelerated rate, in order to keep up with the constant changes in the business world.
+We understand that three important phases must be considered when we analyze the evolution of information systems, from a technical and User Interaction standpoint: DOS era, Windows Application, Web and Mobile.
+</p>
+DOS age
+</p>
+DOS (Disk Operation System) was the name of an OS distributed by Microsoft and formed the base of the computers until the early 1990s. It was much due to this OS that computers managed to become popular.
+Main characteristics of Information Systems from this time were:
+Text only display (no graphical artifacts, images, etc);
+UI using the keyboard and keystroke commands;
+Information Systems were basically used for very repetitive and transactional tasks;
+Information Systems were basically designed as substitutes of the still present Typewriter;
+Used only by big corporations and specific market niches;
+Main programming languages: Clipper and COBOL;
+Main data storage structure: DBF and text files;
+Focus on the operator — There were professionals whose sole function was to operate the Information Systems.
+
+Typical DOS-based information System
+Windows age
+Microsoft Windows came as a replacement for DOS (although technically it ran on DOS itself at the beginning). It brought different user interaction concepts, its namesake: the use of “windows”, that would allow the user to have multiple transactions available at one time. It changed the paradigm of the relationship between user and computer, with the use of the mouse, and the graphical approach. Windows allowed for a great evolution and massification of Information Systems.
+Main characteristics of Information Systems from this time were:
+Display with graphics — Windows;
+The use of the mouse pointer. (slow adaptation);
+Windows forms paradigm;
+The use of Information Systems for Management;
+Banking systems;
+Industrial automation;
+Information systems became largely available to all businesses;
+Main programming languages: Visual Basic, Delphi, Java, C++;
+Main data storage as relational databases: Oracle, SQL Server, Paradox, Access, DB2, Sybase, outros;
+Focus on the employee: general staff replaced the specialized operator.
+
+Typical windows-based Information System
+Web age
+The advent of the Internet and its omnipresence forced another major evolutionary milestone for Information Systems. Web-based systems, that either run inside a web browser or utilize Internet protocols, become more and more the norm.
+Main characteristics of Information Systems from this time were:
+Use of the web browser as a platform (application within an application);
+Highly customized and interactive UI, web form paradigms;
+B2B Information Systems — handling business between companies;
+B2C Information Systems — Online sales to customers;
+SaaS — Software as service;
+Web 2.0 — collaboration systems;
+Main technologies: HTML, Javascript, CSS, ASP, ASP.NET, PHP, JSP, PL e ColdFusion;
+Main databases: SQL Server, Access, MySQL, Oracle, etc;
+Focus on the end-user: The end-user himself became an operator of the Information System. For example: At an online shirt store, the end-user generates the purchase order himself, processes the payment, chooses the delivery method (logistics), all this without having a company employee attached to the process.
+Mobile age
+Mobility brought true omnipresence for computing devices and included the final layer of people that didn’t have access to Information systems thus far.
+Considering the commoditization of smartphones, tablets and etc, and the mass availability of wireless Internet access, even the most remote and deprived populations made the leap from no access to a computer to immediate access to all B2C Information Systems.
+Every app in a mobile phone is in a way an Information System, be it with very specialized and simplified functions, but still Information Systems nonetheless.
+From the standpoint of the systems found in mobile devices, their main characteristics are:
+Reduced user real estate: designers have to be very diligent with the user experience in such limited spaces;
+The main goal is to create highly specialized applications, that perform one task in the best and fast possible manner (for example: Uber)
+Remote data storage: That means that the app in the device is just a client, considering that the data and even processing is done remotely;
+Main technologies: Java for Android, Objective-C or Swift for iOS (Apple), and C# for Windows Phone.
+Databases: same as in the web age, like MySQL, MariaDB, PostgreSQL but new data structures and no-SQL.
+Focus on the end-user: The same as for the web Information Systems, but at an exponential exhaustive level as the user is in some way, always-on, always-connected, anywhere, everywhere.
+Conclusion
+What is the next major milestone? It seems at the moment, we witness the uprising of the IoT (Internet of things) and passive use of Information Systems (exchange of data without objective interaction with the end-user).
+Remains to be seen, to which levels of abstraction these new models may take us, and the social feedback of the maturity of these new Information Systems generate.
+</body>
+</html>
